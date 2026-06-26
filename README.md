@@ -12,12 +12,14 @@ En este perfil encontrarás proyectos personales y profesionales, documentación
          alt="Geras Software"
          width="220" height="220"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Guille301/ProyectoClinica">
     <img src="https://github.com/user-attachments/assets/5dab6825-ca03-46c9-a06e-111c7cb55bc1"
          alt="Proyecto Clínica"
          width="220" height="220"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Guille301/All-Service-Api">
     <img src="https://github.com/user-attachments/assets/6675ee3f-59db-4b19-83dd-b67bccf2e344"
